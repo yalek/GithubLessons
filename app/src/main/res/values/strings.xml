@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Github Lessons</string>
+    <string name="topic">Github is the coolest stuff ever to happen</string>
+    <string name="github_is_the_coolest_stuff_ever_to_happen">github_is_the_coolest_stuff_ever_to_happen</string>
 </resources>

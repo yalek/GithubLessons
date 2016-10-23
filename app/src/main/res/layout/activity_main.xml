@@ -13,10 +13,11 @@
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Github is the coolest stuff ever to happen"
+        android:text="@string/github_is_the_coolest_stuff_ever_to_happen"
         android:layout_centerHorizontal="true"
         android:layout_centerVertical="true"
-        android:textSize="30dp"
+        android:textSize="30sp"
         android:textAlignment="center"
-        android:textColor="@color/colorPrimary"/>
+        android:textColor="@color/colorPrimary"
+        android:background="@color/colorAccent"/>
 </RelativeLayout>
